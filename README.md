@@ -26,4 +26,4 @@ This project involves the creation and management of a PostgreSQL database desig
 - **SQL and Bash Scripting Debugging**: Gained experience in identifying and resolving SQL syntax errors, unexpected values, and logical errors in Bash scripts. Developed a keen attention to detail for troubleshooting both SQL statements and Bash logic.
 
 ### Bash Scripting
-- **Automation of Customer Interaction and Appointment Process**: Created Bash scripts that automate the main appointment operations, facilitating easier customer interactions and appointment management. This scripting improved efficiency and provided hands-on experience in combining SQL with Bash for interactive applications.
+- **Automation of Customer Interaction and Appointment Process**: Created Bash scripts that automate the main appointment operations, facilitating easier customer interactions and appointment management.
